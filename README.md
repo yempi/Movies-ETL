@@ -2,14 +2,14 @@
 ## Project Overview
 The following project served as a form of applying the Extract-Transform-Load method in order to convert raw data that needs to be cleanes and structured before it can be analyzed. This goes as follows:
 
-- Extract
-Read the data, often from multiple sources
+  - Extract
+    - Read the data, often from multiple sources
 
-- Transform
-Clean and structure the data in desired form
+  - Transform
+    - Clean and structure the data in desired form
 
-- Load
-Write the data into a database for storage
+  - Load
+    - Write the data into a database for storage
 
 For this specific exercise we extracted information from 3 different sources about different movies from 1990 to 2018, automating a pipeline that takes new data and does all the process instinctively.
 
